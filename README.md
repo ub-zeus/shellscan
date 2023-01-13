@@ -1,6 +1,6 @@
 # shellscan
 
-Used: python shellscan.py -m url.com -d wordlist
+Used: python shellscan.py -m url.com -d wordlist.txt 
 
 Coded by @master_darknet
 
